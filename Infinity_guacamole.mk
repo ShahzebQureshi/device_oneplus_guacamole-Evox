@@ -16,7 +16,7 @@ $(call inherit-product, device/oneplus/guacamole/device.mk)
 $(call inherit-product, vendor/infinity/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := Infinity_guacamole
+PRODUCT_NAME := infinity_guacamole
 PRODUCT_DEVICE := guacamole
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_MODEL := GM1911
